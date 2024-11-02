@@ -23,6 +23,5 @@ This project implements a Retrieval-Augmented Generation (RAG) chatbot that util
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   https://github.com/Sagor0078/building-RAG-using-DSPy-and-Gemini-API.git
    ```
